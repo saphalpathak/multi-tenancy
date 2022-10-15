@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "tenants",
+      "type": "com.ch.multitenancy.configuration.datasource.DataSourceProperties",
+      "sourceType": "com.ch.multitenancy.configuration.datasource.DataSourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tenants.datasources",
+      "type": "java.util.Map<java.lang.Object,java.lang.Object>",
+      "sourceType": "com.ch.multitenancy.configuration.datasource.DataSourceProperties"
+    }
+  ],
+  "hints": []
+}
